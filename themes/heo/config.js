@@ -20,7 +20,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'bblog.mxy520.online',
   HEO_HERO_TITLE_4: '😎',
   HEO_HERO_TITLE_5: '我想当C语言大佬',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_LINK: 'bblog.mxy520.online',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '我的日记', url: '/tag/我的日记' },
